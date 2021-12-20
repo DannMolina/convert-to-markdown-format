@@ -1,4 +1,4 @@
-**Website and Platform Mobile App Terms and Conditions (Terms)**
+##Website and Platform Mobile App Terms and Conditions (Terms)
 
 **About our Website and PlatformMobile App:**
 
@@ -44,7 +44,7 @@ The legislation governing our licences or authorised representative agreements a
 
 **Iress Wealth Management Pty Ltd ABN: 67 095 619 837.  Iress is a world leading systems and software vendor for the financial service sector around the world.  Empower Wealth Financial Services uses their leading software product Xplan to help manage share and superannuation investments.  Your information is NOT shared automatically with Iress/Xplan, rather you agree to share your information only when you make a request for an appointment with one of our Financial Planners and you engage their services.** 
 
-**Keap is a US based privately held company that specialises in Cloud based Customer Relationship Management software solutions.  The Empower Wealth group of companies use KEAP Classic CRM software to manage our clients’ information and workflow history, which also includes some data collected from our **Website** and **PlatformMobile App**.  **All data with our KEAP Classic CRM is based in Australian data centres.**
+**Keap is a US based privately held company that specialises in Cloud based Customer Relationship Management software solutions.  The Empower Wealth group of companies use KEAP Classic CRM software to manage our clients’ information and workflow history, which also includes some data collected from our Website and PlatformMobile App. All data with our KEAP Classic CRM is based in Australian data centres.**
 
 **Website and Platform Mobile App Services**
 
