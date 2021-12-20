@@ -6,7 +6,7 @@
 
 The MoneySMARTS money management system and other tools are free to use, and if you don’t require any (**Suppliers**) services, you can also enjoy this **Platform** **Mobile App** as an anonymous customer, based in your login credentials.
 
-**Empower Wealth website** ([**https://empowerwealth.com.au](https://empowerwealth.com.au)**)** (**Website**) – is an information rich resource in which ‘you’ can learn more about Empower Wealth’s professional advisory services, and also request an appointment with one or more of our advisors 
+**Empower Wealth website** ([https://empowerwealth.com.au](https://empowerwealth.com.au)**)** (**Website**) – is an information rich resource in which ‘you’ can learn more about Empower Wealth’s professional advisory services, and also request an appointment with one or more of our advisors 
 
 **Terms and Conditions (Terms):**
 
