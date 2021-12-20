@@ -1,4 +1,4 @@
-##Website and Platform Mobile App Terms and Conditions (Terms)
+## Website and Platform Mobile App Terms and Conditions (Terms)
 
 **About our Website and PlatformMobile App:**
 
